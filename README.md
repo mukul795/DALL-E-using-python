@@ -1,4 +1,5 @@
-OpenAI Dalle3 Image Generation Streamlit Web App
+<h1>OpenAI Dalle3 Image Generation Streamlit Web App</h1>
+<hr>
 Python Streamlit web app utilizing the OpenAI API to communicate with the Dalle3 image generation model, based on user input.
 
 Example Screenshots
